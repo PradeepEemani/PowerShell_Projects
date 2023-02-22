@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataExplorer440",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/83944eb8-9b7c-41b4-be80-0b947939e7b2/resourceGroups/adx/providers/Microsoft.Kusto/clusters/pandora",
+		"groupId": "cluster",
+		"fqdns": [
+			"pandora.westus.kusto.windows.net"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synapsepreemani",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/83944eb8-9b7c-41b4-be80-0b947939e7b2/resourceGroups/synapsepreemani/providers/Microsoft.Synapse/workspaces/synapsepreemani",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synapsepreemani-ondemand.b443e781-4667-41f6-a8a9-2460bda20579.sql.azuresynapse.net"
+		]
+	}
+}

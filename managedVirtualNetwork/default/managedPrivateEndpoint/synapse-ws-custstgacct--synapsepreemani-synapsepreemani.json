@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--synapsepreemani-synapsepreemani",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/83944eb8-9b7c-41b4-be80-0b947939e7b2/resourceGroups/synapsepreemani/providers/Microsoft.Storage/storageAccounts/synapsepreemani",
+		"groupId": "dfs",
+		"fqdns": [
+			"synapsepreemani.dfs.core.windows.net"
+		]
+	}
+}
